@@ -1,0 +1,36 @@
+*{
+  text-align: center;
+  margin-top:1rem;
+  color:black;
+}
+h1{
+  color:rgb(1, 1, 17);
+}
+ul{
+  list-style: none;
+}
+.input{
+  height:2rem;
+  width:20rem;
+  border-radius: 0.3rem;
+  border:1px solid black;
+}
+.btn{
+  height:2.3rem;
+  width:6rem;
+  background-color: rgb(86, 188, 86);
+  margin-left:0.5rem;
+  border-radius: 0.3rem;
+  border:1px solid black;
+}
+.deleteBtn{
+  position: relative;
+  /* right:24rem; */
+  height:2.3rem;
+  width:6rem;
+  background-color: rgb(212, 31, 31);
+  margin-left:8rem;
+  border-radius: 0.3rem;
+  border:1px solid black;
+  color:white;
+}
